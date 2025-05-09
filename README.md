@@ -6,9 +6,9 @@ A complete farm management system built with the **MERN stack** (MongoDB, Expres
 
 ## 📁 Folder Structure
 DairyFarm/
-├── admin/ # Admin panel (user interface)
-├── backend/ # Backend (APIs, logic, DB)
-├── dairy_farm/ # Customer-facing UI
+├── admin/ # Admin panel (user interface)  
+├── backend/ # Backend (APIs, logic, DB)  
+├── dairy_farm/ # Customer-facing UI  
 
 yaml
 Copy
