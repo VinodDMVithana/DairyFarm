@@ -23,22 +23,25 @@ Edit
 cd backend
 npm install
 npm start
+```
 
-Admin Panel (React):
-bash
+### Admin Panel (React):
+```bash
 Copy
 Edit
 cd admin
 npm install
 npm start
+```
 
-Customer UI (React):
-bash
+### Customer UI (React):
+```bash
 Copy
 Edit
 cd dairy_farm
 npm install
 npm start
+```
 
 🔧 Tech Stack
 Frontend: React.js
