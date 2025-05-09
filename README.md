@@ -31,7 +31,7 @@ Copy
 Edit
 cd admin
 npm install
-npm start
+npm run dev
 ```
 
 ### Customer UI (React):
@@ -40,7 +40,7 @@ Copy
 Edit
 cd dairy_farm
 npm install
-npm start
+npm run dev
 ```
 
 🔧 Tech Stack
