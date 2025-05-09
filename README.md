@@ -5,16 +5,12 @@ A complete farm management system built with the **MERN stack** (MongoDB, Expres
 ---
 
 ## 📁 Folder Structure
-DairyFarm/
+DairyFarm/  
 ├── admin/ # Admin panel (user interface)  
 ├── backend/ # Backend (APIs, logic, DB)  
 ├── dairy_farm/ # Customer-facing UI  
 
-yaml
-Copy
-Edit
-
----
+---  
 
 ## 🛠 How to Run
 
@@ -43,11 +39,11 @@ npm install
 npm run dev
 ```
 
-🔧 Tech Stack
+🔧 Tech Stack  
 Frontend: React.js  
-Backend: Node.js, Express
-Database: MongoDB
-Authentication: JWT
+Backend: Node.js, Express  
+Database: MongoDB  
+Authentication: JWT  
 
 📌 Features
 🐄 Animal & Health Record Management
