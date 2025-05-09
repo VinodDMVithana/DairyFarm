@@ -54,9 +54,9 @@ Authentication: JWT
 
 🧑‍💻 Group Members & Contributions  
 Dilshan Mahavithana – Employee & Task Management  
-Dilki Kaweesha – [User Management Order Management]  
-Geethma Dias – [Services and Herd handling]  
-Pradeepa Dineshika – [Animal vet handling]  
-Yasintha Randika – [Product Management]  
+Dilki Kaweesha – User Management Order Management  
+Geethma Dias – Services and Herd handling  
+Pradeepa Dineshika – Animal vet handling  
+Yasintha Randika – Product Management  
 
 ## 🎥 Demo Video
