@@ -44,7 +44,7 @@ npm run dev
 ```
 
 🔧 Tech Stack
-Frontend: React.js
+Frontend: React.js  
 Backend: Node.js, Express
 Database: MongoDB
 Authentication: JWT
