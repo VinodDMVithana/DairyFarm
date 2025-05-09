@@ -45,18 +45,18 @@ Backend: Node.js, Express
 Database: MongoDB  
 Authentication: JWT  
 
-📌 Features
-🐄 Animal & Health Record Management
-🧑‍💼 Employee Management (Developed by [Dilshan Mahavithna])
-✅ Task Management (Developed by [Dilshan Mahavithana])
-📦 Farm Service Tracking
-📊 Admin & Customer Dashboards
+📌 Features  
+🐄 Animal & Health Record Management  
+🧑‍💼 Employee Management (Developed by [Dilshan Mahavithna])  
+✅ Task Management (Developed by [Dilshan Mahavithana])  
+📦 Farm Service Tracking  
+📊 Admin & Customer Dashboards  
 
-🧑‍💻 Group Members & Contributions
-[Dilshan Mahavithana] – Employee & Task Management
-[Dilki Kaweesha] – [User Management Order Management]
-[Geethma Dias] – [Services and Herd handling]
-[Pradeepa Dineshika] – [Animal vet handling]
-[Yasintha Randika] – [Product Management]
+🧑‍💻 Group Members & Contributions  
+[Dilshan Mahavithana] – Employee & Task Management  
+[Dilki Kaweesha] – [User Management Order Management]  
+[Geethma Dias] – [Services and Herd handling]  
+[Pradeepa Dineshika] – [Animal vet handling]  
+[Yasintha Randika] – [Product Management]  
 
 ## 🎥 Demo Video
